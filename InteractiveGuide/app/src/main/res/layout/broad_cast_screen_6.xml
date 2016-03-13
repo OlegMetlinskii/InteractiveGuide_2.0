@@ -49,6 +49,7 @@
         android:layout_width="100dp"
         android:layout_height="100dp"
         android:background="@drawable/play"
+        android:onClick="startClick"
         android:id="@+id/button13"
         android:layout_alignTop="@+id/button14"
         android:layout_centerHorizontal="true" />
